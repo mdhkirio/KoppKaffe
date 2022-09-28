@@ -1,21 +1,15 @@
-header
-{
+header {
   position: sticky;
   background-color: #ecd3b7;
   top: 0px;
-  z-index: 2;
-}
+  z-index: 2; }
 
-body
-{
-    /* font-family: 'Roboto'; */
-    font-family: 'Roboto', sans-serif;
-    font-weight: 100;
-    background-color: #9c9383;
-}
+body {
+  /* font-family: 'Roboto'; */
+  font-family: 'Roboto', sans-serif;
+  font-weight: 100;
+  background-color: #9c9383; }
 
-.rss__imagen
-{
+.rss__imagen {
   display: inline;
-  width: 30px;
-}
+  width: 30px; }
